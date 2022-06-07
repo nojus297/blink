@@ -16,11 +16,11 @@ BUNDLE_ID = sh.blink.blinkshell
 GROUP_ID  = sh.blink
 
 // CLOUD_ID is used as name for iCloud (prefix icloud. is added)
-CLOUD_ID = sh.blink.blinkshell
+// CLOUD_ID = sh.blink.blinkshell
 // if you want to build without iCloud, please remove the section in xCode
 
 // KEYCHAIN_ID is used as name for keychain
-KEYCHAIN_ID1 = sh.blink
+// KEYCHAIN_ID1 = sh.blink
 //KEYCHAIN_ID2 = Com.CarlosCabanero.BlinkShell
 // if you want to build without keychain, please remove the section in xCode
 
